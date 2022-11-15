@@ -1,0 +1,16 @@
+*{
+    background-color: lightseagreen;
+}
+h1{
+    text-align: center;
+}
+.primerParrafo, .segundoParrafo,.numeroTelefono{
+    padding: 25px;
+    text-align: center;
+    margin: 10px 15px 10px 15px;
+    background-color: lightblue;
+}
+p{
+    background-color: lightblue;
+    font-size: 20px;
+}
